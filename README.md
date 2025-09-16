@@ -175,12 +175,9 @@ Enable authorized admin users to securely access, search, filter, and download e
 | Exit/Improvement/Backlog  | Application ID, Type, Approval Status                         | Manage special exam applications                         |
 | Complaints & Queries      | Complaint ID, Description, Status                             | Handle student grievances & support                      |
 | Audit Logs                | Action ID, User ID, Timestamp, Action, Old/New Values        | Maintain audit trail for security and compliance         |
-
----
-
 # Summary
 
-This documentation aligns with the Examination module flowchart and provides detailed descriptions of each feature, record type, and admin management component. It serves as a comprehensive guide to develop, deploy, and maintain the Examination module in the ERP system.
+
 
 ---
 
