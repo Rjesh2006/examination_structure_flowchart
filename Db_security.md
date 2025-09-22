@@ -1,11 +1,11 @@
-# 🛡️ Azure PostgreSQL Deployment & Security Runbook – Student ERP
+#  Azure PostgreSQL Deployment & Security Runbook – Student ERP
 
-## 🎯 Purpose
+##  Purpose
 This setup powers the Student ERP system for over 5,000 students using Azure Database for PostgreSQL. It’s designed for high availability, strong security, cost efficiency, and operational automation.
 
 ---
 
-## 🧱 1. Architecture Overview
+## 1. Architecture Overview
 
 | Component         | Configuration                          |
 |------------------|----------------------------------------|
@@ -18,7 +18,7 @@ This setup powers the Student ERP system for over 5,000 students using Azure Dat
 
 ---
 
-## 🔐 2. Security Design
+##  2. Security Design
 
 ### Network Isolation
 - Database is placed inside a private Azure Virtual Network (VNet).
@@ -40,7 +40,7 @@ This setup powers the Student ERP system for over 5,000 students using Azure Dat
 
 ---
 
-## 🧠 3. Operational Features
+##  3. Operational Features
 
 ### Credential Management
 - Secrets like passwords and connection strings stored in Azure Key Vault.
@@ -66,7 +66,7 @@ This setup powers the Student ERP system for over 5,000 students using Azure Dat
 
 ---
 
-## 💰 5. Cost Optimization
+##  5. Cost Optimization
 
 ### Reserved Capacity
 - Reserved instances purchased for 1–3 years to save up to 60% on compute costs.
@@ -77,7 +77,7 @@ This setup powers the Student ERP system for over 5,000 students using Azure Dat
 
 ---
 
-## 📆 6. Monthly Security Maintenance
+##  6. Monthly Security Maintenance
 
 A scheduled script performs the following tasks:
 - Reviews access logs for authentication events
@@ -88,7 +88,7 @@ A scheduled script performs the following tasks:
 
 ---
 
-## ✅ 7. Implementation Checklist
+##  7. Implementation Checklist
 
 | Task                                      | Status |
 |-------------------------------------------|--------|
