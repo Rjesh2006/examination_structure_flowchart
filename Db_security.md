@@ -57,7 +57,7 @@ This setup powers the Student ERP system for over 5,000 students using Azure Dat
 
 ---
 
-## 📉 4. Data Lifecycle Management
+## 4. Data Lifecycle Management
 
 ### Archiving Graduated Students
 - Student records older than 10 years are moved to an archive table.
