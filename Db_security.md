@@ -109,5 +109,7 @@ A scheduled script performs the following tasks:
 
 This PostgreSQL setup is built for scale, security, and maintainability. It aligns with best practices for educational data protection and ensures that ERP system remains resilient, compliant, and cost-effective.Every component—from network isolation to encryption and monitoring has been thoughtfully implemented to support long-term operations.
 
+herw we have the lflowchart for ease and efficeint to get this think : 
+<img width="3840" height="1716" alt="seucity layer" src="https://github.com/user-attachments/assets/a236c99c-3e5f-49b6-99e3-85147d786226" />
 
 
