@@ -111,7 +111,3 @@ This PostgreSQL setup is built for scale, security, and maintainability. It alig
 
 
 
-here we have the architecutre to get it with the ease and efficently :
-<img width="3840" height="2261" alt="mermaid-ai-diagram-2025-09-22-180037" src="https://github.com/user-attachments/assets/e7d58386-6d02-4bb6-9d15-2f92a581c0e8" />
-
-
