@@ -1,3 +1,5 @@
+ ⚠️ **Disclaimer**: The resource configuration and cost estimates provided here are based on the current deployment plan for the Student ERP database. These figures are indicative and subject to change. We follow an agile approach and remain flexible to adjust resources and capacity based on evolving needs and usage patterns.
+
 # Azure Cloud Infrastructure Proposal
 ## Enterprise-Scale Centralized ERP System for Multi-College University
 ### Supporting 2.7 Million Students with 50k Concurrent Users
