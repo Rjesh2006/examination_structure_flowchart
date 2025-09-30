@@ -1,4 +1,4 @@
- ⚠️ **Disclaimer**: The resource configuration and cost estimates provided here are based on the current deployment plan for the Student ERP database. These figures are indicative and subject to change. We follow an agile approach and remain flexible to adjust resources and capacity based on evolving needs and usage patterns.
+ ⚠️**Disclaimer**: The resource configuration and cost estimates provided here are based on the current deployment plan for the Student ERP database. These figures are indicative and subject to change. We follow an agile approach and remain flexible to adjust resources and capacity based on evolving needs and usage patterns , refrence's also taken from  llm's.
 
 # Azure Cloud Infrastructure Proposal
 ## Enterprise-Scale Centralized ERP System for Multi-College University
@@ -24,7 +24,7 @@ This proposal outlines the Azure cloud infrastructure required for an **enterpri
 
 ---
 
-## **CORRECTED ENTERPRISE ARCHITECTURE**
+## ** ENTERPRISE ARCHITECTURE**
 
 ### **1. Database Services - HIGH PERFORMANCE**
 | Service | Configuration | Monthly Cost | Justification |
@@ -298,4 +298,4 @@ Results Delivered in <3 seconds
 - **Global accessibility** for students worldwide
 - **Enterprise-grade security** and compliance
 
-This architecture will successfully handle your 50k concurrent user requirement while maintaining excellent performance and security for all 2.7 million students.
+***This architecture is built to handle significant concurrent usage and serve a large student population with robust performance and security. Resource sizing remains flexible and will evolve with usage patterns.***
