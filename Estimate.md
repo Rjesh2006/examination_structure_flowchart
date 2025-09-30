@@ -299,3 +299,9 @@ Results Delivered in <3 seconds
 - **Enterprise-grade security** and compliance
 
 ***This architecture is built to handle significant concurrent usage and serve a large student population with robust performance and security. Resource sizing remains flexible and will evolve with usage patterns.***
+
+
+## Also here we have the flowchrt of our system would contain: 
+***- ER﻿P-Based Higher Education Student Management System: Modular Architecture and Workflow***
+<img width="2577" height="3840" alt="erp_system_student_mng_chart" src="https://github.com/user-attachments/assets/fe39d57e-cefa-46ac-8fac-5c0fbb2982d7" />
+
